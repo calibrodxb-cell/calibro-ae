@@ -41,11 +41,11 @@ export default function Approach() {
         <div className="space-y-8 lg:space-y-10">
           {/* Top Content */}
           <div className="grid gap-6 lg:grid-cols-[220px_1fr] lg:gap-10">
-            <h2 className="text-[28px] font-semibold sm:text-[34px]">
+            <h2 className="text-[28px] font-black sm:text-[34px]">
               Approach
             </h2>
 
-            <p className="max-w-[1200px] text-[18px] font-semibold leading-[1.05] sm:text-[22px] lg:text-[32px]">
+            <p className="max-w-[900px] text-[18px] font-bold leading-[1.05] sm:text-[22px] lg:text-[24px]">
               At Calibro, Uniqueness defines our approach. Each client has their
               own identity, and every space should embody it fully. Calibro
               designs custom elements that transform interiors into personal

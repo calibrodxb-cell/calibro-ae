@@ -9,11 +9,11 @@ export default function Contact() {
       <div className="rounded-t-[32px] bg-black px-5 py-10 sm:px-8 sm:py-12 lg:px-10 lg:py-14">
         {/* Header */}
         <div className="mx-auto max-w-[1200px]">
-          <h2 className="text-[28px] font-semibold leading-none sm:text-[34px]">
+          <h2 className="text-[28px] font-black leading-none sm:text-[34px]">
             Get in Touch
           </h2>
 
-          <p className="mt-3 text-[16px] font-medium text-white/40 sm:text-[18px] lg:text-[20px]">
+          <p className="mt-3 text-[16px] font-black text-white/40 sm:text-[18px] lg:text-[27px]">
             We welcome inquiries and will be in contact soon.
           </p>
         </div>

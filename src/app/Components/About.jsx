@@ -10,7 +10,6 @@ const aboutImages = [
   "/images/about-1.webp",
   "/images/about-2.webp",
   "/images/about-3.webp",
-  "/images/about-3.webp",
 ];
 
 export default function About() {
@@ -25,7 +24,7 @@ export default function About() {
             About
           </h2>
 
-          <p className="max-w-[1200px] text-[18px] font-bold leading-[1.05] sm:text-[22px] lg:text-[28px]">
+          <p className="max-w-[1200px] text-[18px] font-bold leading-[1.05] sm:text-[22px] lg:text-[32px]">
             Calibro brings together artistic vision and technical precision to
             deliver refined furniture solutions where craftsmanship,
             materiality, and detail define every piece. From bespoke furniture
@@ -54,7 +53,7 @@ export default function About() {
             alt={`About image ${index + 1}`}
             width={1800}
             height={900}
-            className="h-[260px] w-full object-cover sm:h-[360px] lg:h-[520px]"
+            className="h-[260px] w-full object-cover sm:h-[360px] lg:h-[720px]"
             priority={index === 0}
           />
         </SwiperSlide>
