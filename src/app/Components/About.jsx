@@ -25,7 +25,7 @@ export default function About() {
           </h2>
 
           <p className="max-w-[1200px] text-[18px] font-bold leading-[1.05] sm:text-[22px] lg:text-[32px]">
-            Calibro brings together artistic vision and technical precision to
+            
             deliver refined furniture solutions where craftsmanship,
             materiality, and detail define every piece. From bespoke furniture
             to complete FF&E concepts, and tailored solutions with lasting
