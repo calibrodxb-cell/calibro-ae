@@ -129,7 +129,7 @@ export default function Projects() {
                     alt={project.title}
                     width={1800}
                     height={1000}
-                    className="h-[260px] w-full object-cover sm:h-[420px] lg:h-[1020px]"
+                    className="h-[260px] w-full object-cover sm:h-[420px] lg:h-[600px]"
                     priority={index === 0}
                   />
 
